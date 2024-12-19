@@ -122,7 +122,7 @@ Talkify is a modern chat application built with the **MERN** stack (**MongoDB**,
 
 ## Demo
 
-- You can access the demo of this project by clicking [here](https://Talkify01.netlify.app/)
+- You can access the demo of this project by clicking [here](https://talkifyin.netlify.app//)
 
 ## Screenshots
 
