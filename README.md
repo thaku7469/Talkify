@@ -90,7 +90,7 @@
   npm install
 ```
 
-- Configure environment variables: Create a .env file in the server directory using the env example file:
+- Configure environment variables: Create a .env file in the root directory using the env example file:
 
 - Start the application:
 
