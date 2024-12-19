@@ -1,6 +1,6 @@
 ## Talkify - A Modern Chat Application
 
-Talkify is a modern chat application built with the **MERN** stack (**MongoDB**, **Express**, **React**, **Node.js**), offering seamless communication through **real-time messaging** with **Socket.IO**, **file sharing**, **group chats**, and video calls. With an intuitive interface and powerful features, Talkify brings effortless, secure, and interactive communication to your fingertips.
+**Talkify** is a modern chat application built with the **MERN** stack (**MongoDB**, **Express**, **React**, **Node.js**), offering seamless communication through **real-time messaging** with **Socket.IO**, **file sharing**, **group chats**, and video calls. With an intuitive interface and powerful features, Talkify brings effortless, secure, and interactive communication to your fingertips.
 
 ## Features
 
