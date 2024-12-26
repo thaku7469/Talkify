@@ -44,7 +44,7 @@
 
 - Notification settings can be customized per user.
 
-###7. Seamless User Experience
+### 7. Seamless User Experience
 
 - Responsive and fast-loading interface.
 
